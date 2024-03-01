@@ -3,6 +3,8 @@ import './App.css';
 import { Component } from 'react';
 import $ from "jquery";
 import Header from "./Component/Header";
+import About from "./Component/About";
+
 
 class App extends Component {
   constructor(props) {
@@ -41,7 +43,8 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main} />
-        
+        <About data={this.state.resumeData.main}/>
+       
       </div>
     )
   }

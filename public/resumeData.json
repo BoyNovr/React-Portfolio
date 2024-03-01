@@ -2,7 +2,7 @@
     "main":{
         "name" : "BOY NOVRIYAL",
         "description": "I am a programmer and Cloud Engineer",
-        "image":"profile.jpg",
+        "image":"profilepic.jpg",
         "github":"https://github.com/BoyNovr",
         "project":"https://github.com/BoyNovr?tab=repositories",
         "bio": "This is the biography section of my profile",
@@ -14,7 +14,167 @@
             "city":"Payakumbuh",
             "state":"West Sumatera",
             "zip": "26227"
-        }
-
+        },
+        "website": "https://github.com/BoyNovr",
+        "resumedownload":"https://github.com/BoyNovr",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://github.com/BoyNovr",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/boy-novriyal-772183269/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/boynovrial",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/BoyNovr",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Putra Indonesia 'YPTK' Padang",
+                "degree": "Bachelor degree of Information System",
+                "graduated": "April 2016",
+                "description" : "I am joining gemastik competition"
+            },
+            {
+                "school": "SMK 4 Padang",
+                "degree": "Accounting",
+                "graduated": "May 2012",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "work": [
+            {
+                "company" : "PT. Batang Hari Barisan",
+                "title" : "Warehouse Admin and analysis",
+                "years": "April 2020 - Januari 2023",
+                "description": "-"
+            }, {
+                "company": "PT. P&P bangkinang",
+                "title": "Export Admin",
+                "years": "February 2022 - present",
+                "description": "Creating a mobile application"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Java",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "VueJS",
+                "level": "88%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "95%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
     }
 }
