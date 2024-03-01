@@ -1,0 +1,20 @@
+{
+    "main":{
+        "name" : "BOY NOVRIYAL",
+        "description": "I am a programmer and Cloud Engineer",
+        "image":"profile.jpg",
+        "github":"https://github.com/BoyNovr",
+        "project":"https://github.com/BoyNovr?tab=repositories",
+        "bio": "This is the biography section of my profile",
+        "contactmessage":"Hello, here I am",
+        "email": "boynovrial@gmail.com",
+        "phone": "0822 xxxx xxxx",
+        "address":{
+            "street":"Limbukan",
+            "city":"Payakumbuh",
+            "state":"West Sumatera",
+            "zip": "26227"
+        }
+
+    }
+}
